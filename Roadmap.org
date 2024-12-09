@@ -1,0 +1,49 @@
+#+title: Draft
+
+* Main Options; [6/10]
+** DONE Rents [2/2]
+*** DONE Add Rent
++ Which car, enter car Id
+  + Normal date entry
+  + Rental time
+  + rent handling
+  + Price
+  + Picture of Contract
+  + Picture of driver licences
+*** DONE Remove/Edit Rent
++ Cancel rent
++ Edit contract picture
+** DONE Show Cars [3/3]
+*** DONE Not in a current rent
+*** DONE In a current rent (sorted by end date)
+*** DONE All cars
+** DONE Vehicle Management [2/2] :admin:
+*** DONE Add Car
+*** DONE Remove a car
+** DONE Add Fines
+** DONE HGS
+** DONE Add Maintenance [0/0]
+- Choose Item
+- Enter Price
+- Enter bill
+** TODO Notifier [0/2] :jobs:
+*** TODO Rent end, with car data,
+*** TODO Maintainace.
+** TODO Notifer Change [0/3] :admin:
+*** TODO Car Rent
+*** TODO Maintainace Notifier
+*** TODO Maintainace Delay Notifer Frequency
+** TODO Add items to list of cycle maintenance  [0/2] :admin:jobs:
+*** TODO Add Item
+*** TODO Time to renew
+** TODO Admin Passwall
+* Fixes [6/6]
+** DONE Showing Cars
+** DONE Date Inputting
+** DONE Add Details Car In Rent
+** DONE Edit Contact
+Can not choose /cont
+** DONE Show Cars Not In Rent
+** DONE Rent OVERLAP
+* Note
+** TODO When you deploy, make sure to save IO output from the CLI (since logging)
