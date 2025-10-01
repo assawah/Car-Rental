@@ -483,3 +483,4 @@
 - 2025-09-30 — Experiment record 3
 - 2025-09-30 — Experiment record 4
 - 2025-09-30 — Experiment record 5
+- 2025-10-01 — Experiment record 1
