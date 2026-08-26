@@ -47,3 +47,4 @@
 - 2026-08-12 — Experiment record 8
 - 2026-08-26 — Experiment record 1
 - 2026-08-26 — Experiment record 2
+- 2026-08-26 — Experiment record 3
